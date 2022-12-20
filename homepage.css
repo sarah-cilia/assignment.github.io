@@ -2,6 +2,11 @@
     background-color: #1c242a;
 }
 
+body {
+
+    background-color: #1c242a;
+}
+
 h1 {
     color: white;
     font-size: 345px;
@@ -11,6 +16,9 @@ h1 {
 
 h4 {
     color: white;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: solid;
 }
 
 p {
