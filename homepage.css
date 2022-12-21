@@ -24,3 +24,11 @@ h4 {
 p {
     color: white;
 }
+
+.container {
+    max-width: 1500px;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+}
