@@ -36,3 +36,10 @@ p {
 .navbar-brand {
     font-size: 2rem;
 }
+
+.fa-brands {
+    color: white;
+    font-size: 1.3rem;
+    align-items: bottom;
+    padding-right: 7px;
+}
